@@ -1,0 +1,23 @@
+{
+  "name": "ticlean",
+  "version": "0.0.11",
+  "description": "Simple script to recursively delete Titanium `build` directories",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "bin": {
+    "ticlean": "app.js"
+  },
+  "keywords": [
+    "appcelerator",
+    "titanium",
+    "cleanup",
+    "alloy"
+  ],
+  "author": "Bert Grantges",
+  "license": "ISC",
+  "dependencies": {
+    "rimraf": "^2.2.8"
+  }
+}
