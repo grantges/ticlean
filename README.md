@@ -1,10 +1,3 @@
-
-Do you have a lot of lingering Titanium projects with space hogging build folders?
-
-Do you wish you could easily clean up an entire workspace (outside of studio)?
-
-Then _ticlean_ is for you!
-
 TiClean
 =======
 
